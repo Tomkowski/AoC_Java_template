@@ -4,14 +4,14 @@ import com.aoc.utils.Solvable;
 
 import java.util.List;
 
-public class Day01 implements Solvable {
+public class Day01 implements Solvable<Long> {
     @Override
-    public int part1(List<String> input) {
-        return 0;
+    public Long part1(List<String> input) {
+        return 0L;
     }
 
     @Override
-    public int part2(List<String> input) {
-        return 0;
+    public Long part2(List<String> input) {
+        return 0L;
     }
 }
