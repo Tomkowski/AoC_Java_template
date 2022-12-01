@@ -24,7 +24,7 @@ public class Main {
 }
 ```
 Input is parsed from a text file to list of Strings. <br>
-Create a new Java class for each day. The new class should implement *Solvable* interface. It consits of 2 methods: `int part1(List<String> input)` and `int part1(List<String> input)` <br>
+Create a new Java class for each day. The new class should implement *Solvable* interface. It consists of 2 methods: `T part1(List<String> input)` and `T part1(List<String> input)` <br>
 Go to your newly created Java class and start coding.
 ```java
 public class Day01 implements Solvable<Long> {
